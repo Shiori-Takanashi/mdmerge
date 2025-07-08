@@ -1,0 +1,4 @@
+TECH_DIR: "C:/Users/ns69a/Documents/Obsidians/tech"
+IGNORE_DIRS:
+  - ".trash"
+  - ".obsidian"
